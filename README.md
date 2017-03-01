@@ -3,6 +3,10 @@
 ## DevFreeBooks link
 
    https://devfreebooks.github.io/#
+   
+## Markdown cheatsheet
+
+   https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## R Relevant documents
 
@@ -12,7 +16,7 @@
 
 - Hadley Wickham R books sites:
 
-   Advanced R: http://adv-r.had.co.nz/
+   Advanced R: http://adv-r.had.co.nz/  
    R Packages: http://r-pkgs.had.co.nz/
 
 
