@@ -1,12 +1,10 @@
 # Documentation
 
-## DevFreeBooks link
+#### [DevFreeBooks link](https://devfreebooks.github.io/#)
 
-   https://devfreebooks.github.io/#
    
-## Markdown cheatsheet
+#### [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-   https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## R Relevant documents
 
