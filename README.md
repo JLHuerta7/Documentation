@@ -15,7 +15,8 @@
    [Advanced R](http://adv-r.had.co.nz/)  
    [R Packages](http://r-pkgs.had.co.nz/)
 
-- ggplot2
-  [ggplot2 Web site](http://ggplot2.org/)
+- ggplot2  
+
+  [ggplot2 Web site](http://ggplot2.org/)  
   [Documentation of the package](http://docs.ggplot2.org/)
 
