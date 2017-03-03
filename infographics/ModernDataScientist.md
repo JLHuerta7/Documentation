@@ -1,0 +1,1 @@
+![Modern Data Scientist Infographic](https://image.jimcdn.com/app/cms/image/transf/dimension=1040x10000:format=png/path/s4d88a36c8ea54d60/image/i301b6ca77a82c12b/version/1481988519/image.png "Modern Data Scientist Infographic")
