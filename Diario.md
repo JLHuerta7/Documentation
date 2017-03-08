@@ -4,8 +4,8 @@
 - http://www.rdatamining.com/docs/association-rule-mining-with-r  
 - http://www.rdatamining.com/examples/association-rules  
 - https://www.r-bloggers.com/examples-and-resources-on-association-rule-mining-with-r/  
-- [R package](https://cran.r-project.org/web/packages/arules/index.html)
-..* [Vignette](https://cran.r-project.org/web/packages/arules/vignettes/arules.pdf)
+- [R package](https://cran.r-project.org/web/packages/arules/index.html)  
+  - [Vignette](https://cran.r-project.org/web/packages/arules/vignettes/arules.pdf)
 
 ## Markov chains
 
