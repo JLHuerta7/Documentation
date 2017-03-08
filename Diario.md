@@ -20,3 +20,7 @@ https://es.wikipedia.org/wiki/Cadena_de_M%C3%A1rkov
 ## GLRM
 
 [Github tutorial](https://github.com/h2oai/h2o-tutorials/blob/master/tutorials/glrm/glrm-tutorial.md)
+
+## Curiosities
+
+[Finding Radiohead’s most depressing song, with R](https://www.r-bloggers.com/finding-radioheads-most-depressing-song-with-r/)  
