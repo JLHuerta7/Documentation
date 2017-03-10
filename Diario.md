@@ -21,6 +21,12 @@ https://es.wikipedia.org/wiki/Cadena_de_M%C3%A1rkov
 
 [Github tutorial](https://github.com/h2oai/h2o-tutorials/blob/master/tutorials/glrm/glrm-tutorial.md)
 
+## H2O 
+
+- [H2O documentation](http://docs.h2o.ai/h2o/latest-stable/index.html)  
+- [H2O GitHub Getting Started](https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/flow/README.md)  
+- [H2O GitHub Deep Learning Tutorial](https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/tutorials/dl/dl.md)
+
 ## Curiosities
 
 [Finding Radiohead’s most depressing song, with R](https://www.r-bloggers.com/finding-radioheads-most-depressing-song-with-r/)  
