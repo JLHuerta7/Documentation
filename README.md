@@ -21,5 +21,7 @@
 - ggplot2  
 
   [ggplot2 Web site](http://ggplot2.org/)  
-  [Documentation of the package](http://docs.ggplot2.org/)
+  [Documentation of the package](http://docs.ggplot2.org/)  
+  
+- [R Inferno, by Patrick Burns](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)  
 
