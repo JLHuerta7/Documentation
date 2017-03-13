@@ -25,3 +25,4 @@
   
 - [R Inferno, by Patrick Burns](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)  
 
+- [Tidy Data, by Hadley Wickham](http://vita.had.co.nz/papers/tidy-data.pdf)
