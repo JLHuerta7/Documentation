@@ -21,11 +21,16 @@ https://es.wikipedia.org/wiki/Cadena_de_M%C3%A1rkov
 
 [Github tutorial](https://github.com/h2oai/h2o-tutorials/blob/master/tutorials/glrm/glrm-tutorial.md)
 
+## Hyperparameter Optimization
+
+- [R-bloggers: Hyperparameter Optimization in H2O: Grid Search, Random Search and the Future](https://www.r-bloggers.com/hyperparameter-optimization-in-h2o-grid-search-random-search-and-the-future/)  
+
 ## H2O 
 
 - [H2O documentation](http://docs.h2o.ai/h2o/latest-stable/index.html)  
 - [H2O GitHub Getting Started](https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/flow/README.md)  
-- [H2O GitHub Deep Learning Tutorial](https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/tutorials/dl/dl.md)
+- [H2O GitHub Deep Learning Tutorial](https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/tutorials/dl/dl.md)  
+- [H2O R package Documentation](https://cran.r-project.org/web/packages/h2o/h2o.pdf)
 
 ## Curiosities
 
