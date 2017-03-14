@@ -15,7 +15,7 @@
 - Hadley Wickham R books sites:
 
    [Advanced R](http://adv-r.had.co.nz/)  
-   [R Packages](http://r-pkgs.had.co.nz/)
+   [R Packages](http://r-pkgs.had.co.nz/)  
    [ggplot2](http://ggplot2.org/book/)
 
 - ggplot2  
