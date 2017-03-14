@@ -27,4 +27,6 @@
   
 - [R Inferno, by Patrick Burns](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)  
 
-- [Tidy Data, by Hadley Wickham](http://vita.had.co.nz/papers/tidy-data.pdf)
+- [Tidy Data, by Hadley Wickham](http://vita.had.co.nz/papers/tidy-data.pdf)  
+
+- [Learning everything with R: An R book list](http://statisticalestimation.blogspot.com.es/2015/05/best-books-for-learning-statistical.html)
