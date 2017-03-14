@@ -1,9 +1,9 @@
 ## Association rules
 
-- https://en.wikipedia.org/wiki/Association_rule_learning  
-- http://www.rdatamining.com/docs/association-rule-mining-with-r  
-- http://www.rdatamining.com/examples/association-rules  
-- https://www.r-bloggers.com/examples-and-resources-on-association-rule-mining-with-r/  
+- [Wikipedia - Association rule learning](https://en.wikipedia.org/wiki/Association_rule_learning)  
+- [RDataMining.com - Association Rule Mining with R](http://www.rdatamining.com/docs/association-rule-mining-with-r)  
+- [RDataMining.com - Association Rules - Examples](http://www.rdatamining.com/examples/association-rules)  
+- [R-bloggers: Examples and resources on association rule mining with R](https://www.r-bloggers.com/examples-and-resources-on-association-rule-mining-with-r/)  
 - [R package](https://cran.r-project.org/web/packages/arules/index.html)  
   - [Vignette](https://cran.r-project.org/web/packages/arules/vignettes/arules.pdf)
 
