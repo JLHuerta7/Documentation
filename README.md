@@ -23,6 +23,8 @@
   [ggplot2 Web site](http://ggplot2.org/)  
   [Documentation of the package](http://docs.ggplot2.org/)  
   
+- [OnePageR, by Graham Williams](https://togaware.com/onepager/)  
+  
 - [R Inferno, by Patrick Burns](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)  
 
 - [Tidy Data, by Hadley Wickham](http://vita.had.co.nz/papers/tidy-data.pdf)
