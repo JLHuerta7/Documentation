@@ -20,11 +20,15 @@
 
 ## GLRM
 
-[Github tutorial](https://github.com/h2oai/h2o-tutorials/blob/master/tutorials/glrm/glrm-tutorial.md)
+- [Github tutorial - GLRM](https://github.com/h2oai/h2o-tutorials/blob/master/tutorials/glrm/glrm-tutorial.md)
 
 ## Hyperparameter Optimization
 
 - [R-bloggers: Hyperparameter Optimization in H2O: Grid Search, Random Search and the Future](https://www.r-bloggers.com/hyperparameter-optimization-in-h2o-grid-search-random-search-and-the-future/)  
+
+## Cross-Validation
+
+- [Wikipedia - Cross-validation (statistics)](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
 
 ## H2O 
 
