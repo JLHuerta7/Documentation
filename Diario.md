@@ -9,13 +9,14 @@
 
 ## Markov chains
 
-https://es.wikipedia.org/wiki/Cadena_de_M%C3%A1rkov
+- [Wikipedia - Cadenas de Markov](https://es.wikipedia.org/wiki/Cadena_de_M%C3%A1rkov)
 
 ## Propensity Models
 
-- http://blog.echen.me/2014/08/15/propensity-modeling-causal-inference-and-discovering-drivers-of-growth/  
-- http://www.agilone.com/academy/the-definitive-guide-to-predictive-analytics-models-for-marketing/
-- https://en.wikipedia.org/wiki/Propensity_score_matching
+- [Wikipedia - Propensity score matching](https://en.wikipedia.org/wiki/Propensity_score_matching)
+- [Propensity Modeling, Causal Inference, and Discovering Drivers of Growth](http://blog.echen.me/2014/08/15/propensity-modeling-causal-inference-and-discovering-drivers-of-growth/)  
+- [Agilone blog - The Definitive Guide to Predictive Analytics Models for Marketing](http://www.agilone.com/academy/the-definitive-guide-to-predictive-analytics-models-for-marketing/)
+
 
 ## GLRM
 
