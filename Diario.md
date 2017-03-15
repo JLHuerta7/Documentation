@@ -30,6 +30,11 @@
 
 - [Wikipedia - Cross-validation (statistics)](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
 
+## MICE (treating NA values)
+
+- [Multiple Imputation by Chained Equations: What is it and how does it work?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074241/)  
+- [Journal of Statistical Software - mice: Multivariate Imputation by Chained Equations in R](https://stat.ethz.ch/education/semesters/ss2012/ams/paper/mice.pdf)
+
 ## H2O 
 
 - [H2O documentation](http://docs.h2o.ai/h2o/latest-stable/index.html)  
