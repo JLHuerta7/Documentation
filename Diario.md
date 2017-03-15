@@ -1,13 +1,13 @@
 ## Deep Neural Networks
 
-- [R-bloggers: Neural Networks: How they work, and how to train them in R](https://www.r-bloggers.com/neural-networks-how-they-work-and-how-to-train-them-in-r/)
+- [R-bloggers - Neural Networks: How they work, and how to train them in R](https://www.r-bloggers.com/neural-networks-how-they-work-and-how-to-train-them-in-r/)
 
 ## Association rules
 
 - [Wikipedia - Association rule learning](https://en.wikipedia.org/wiki/Association_rule_learning)  
 - [RDataMining.com - Association Rule Mining with R](http://www.rdatamining.com/docs/association-rule-mining-with-r)  
 - [RDataMining.com - Association Rules - Examples](http://www.rdatamining.com/examples/association-rules)  
-- [R-bloggers: Examples and resources on association rule mining with R](https://www.r-bloggers.com/examples-and-resources-on-association-rule-mining-with-r/)  
+- [R-bloggers - Examples and resources on association rule mining with R](https://www.r-bloggers.com/examples-and-resources-on-association-rule-mining-with-r/)  
 - [R package](https://cran.r-project.org/web/packages/arules/index.html)  
   - [Vignette](https://cran.r-project.org/web/packages/arules/vignettes/arules.pdf)
 
@@ -28,7 +28,7 @@
 
 ## Hyperparameter Optimization
 
-- [R-bloggers: Hyperparameter Optimization in H2O: Grid Search, Random Search and the Future](https://www.r-bloggers.com/hyperparameter-optimization-in-h2o-grid-search-random-search-and-the-future/)  
+- [R-bloggers - Hyperparameter Optimization in H2O: Grid Search, Random Search and the Future](https://www.r-bloggers.com/hyperparameter-optimization-in-h2o-grid-search-random-search-and-the-future/)  
 
 ## Cross-Validation
 
