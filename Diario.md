@@ -1,3 +1,7 @@
+## Deep Neural Networks
+
+- [R-bloggers: Neural Networks: How they work, and how to train them in R](https://www.r-bloggers.com/neural-networks-how-they-work-and-how-to-train-them-in-r/)
+
 ## Association rules
 
 - [Wikipedia - Association rule learning](https://en.wikipedia.org/wiki/Association_rule_learning)  
