@@ -2,6 +2,12 @@
 
 - [R-bloggers - Neural Networks: How they work, and how to train them in R](https://www.r-bloggers.com/neural-networks-how-they-work-and-how-to-train-them-in-r/)
 
+#### Learning curves
+
+- [Wikipedia - Overfitting](https://en.wikipedia.org/wiki/Overfitting)  
+- [Revolutions - Why Big Data? Learning Curves](http://blog.revolutionanalytics.com/2015/09/why-big-data-learning-curves.html)  
+- [Revolutions - Learning from Learning Curves](http://blog.revolutionanalytics.com/2016/03/learning-from-learning-curves.html)  
+
 ## Association rules
 
 - [Wikipedia - Association rule learning](https://en.wikipedia.org/wiki/Association_rule_learning)  
