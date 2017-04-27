@@ -14,9 +14,12 @@
 
 - Hadley Wickham R books sites:
 
+   [R for Data Science](http://r4ds.had.co.nz/)  
    [Advanced R](http://adv-r.had.co.nz/)  
    [R Packages](http://r-pkgs.had.co.nz/)  
    [ggplot2](http://ggplot2.org/book/)
+
+- [tidyverse website](http://tidyverse.org/)  
 
 - ggplot2  
 
