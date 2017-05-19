@@ -7,7 +7,7 @@
 
 #### [Basic Git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
-#### [Sqoop User Guide (v1.4.1-incubating)](https://sqoop.apache.org/docs/1.4.1-incubating/SqoopUserGuide.html)
+#### [Sqoop User Guide (v1.4.6)](https://sqoop.apache.org/docs/1.4.6/SqoopUserGuide.html)
 
 
 ## R Relevant documents
