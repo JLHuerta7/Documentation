@@ -15,9 +15,9 @@
 - [Data Loading CRAN manual](https://cran.r-project.org/doc/manuals/R-data.pdf)
 
 ### Tidyverse
-- Cheatsheets from Rstudio:
-   [R Markdown Cheat Sheet ](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
-   [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+- Cheatsheets from Rstudio:  
+   [R Markdown Cheat Sheet ](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)  
+   [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)  
    []()
    []()
 
